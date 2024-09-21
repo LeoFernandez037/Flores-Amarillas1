@@ -23,7 +23,6 @@ canvas {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin: 0;
 }
 
@@ -43,9 +42,6 @@ canvas {
     font-size: 50px;
 }
 
-#B12 {
-    margin-left: 30px;
-}
 
 .Button {
     font-family: monospace;
