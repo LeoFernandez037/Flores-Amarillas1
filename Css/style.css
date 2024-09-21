@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inclusive Sans', sans-serif;
-    background: linear-gradient(70deg, rgb(86, 2, 91), rgb(74, 2, 74), rgb(64, 3, 57));
+    background: rgb(86, 2, 91);
 }
 
 h1 {
